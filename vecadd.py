@@ -14,7 +14,7 @@ def dot_product(a, b):
 
     with ThreadPoolExecutor() as executor:
         results = executor.map(lambda pair: pair[0] * pair[1], zip(a, b))
-    return sum(results)
+    return sum(result)
 
 
 if __name__ == "__main__":
