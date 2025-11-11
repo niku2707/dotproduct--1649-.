@@ -23,3 +23,5 @@ if __name__ == "__main__":
     print("Vector Addition:", vector_add(v1, v2))
     print("Parallel Dot Product:", dot_product(v1, v2))
 
+
+#niharika ko apne kaam pe dhyan dena chahiye hehehehheehhheheheheh band karke
